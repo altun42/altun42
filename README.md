@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi there I'am KERİM👋
 
 <!--
 **altun42/altun42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/altun42) 
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://z-p15.www.instagram.com/k_e_r_i_m__a_l_t_n/) 
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=altun42&show_icons=true&theme=radical)
