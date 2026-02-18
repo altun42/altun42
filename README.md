@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=true" width="49%" />
-  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=true" width="49%" />
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=altun42&show_icons=true&theme=dark&count_private=true&hide_border=true" width="49%" />
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=altun42&layout=compact&theme=dark&hide_border=true" width="49%" />
 </p>
 
 <div align="center">
