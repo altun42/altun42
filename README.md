@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thang1834&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=altun42&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true" alt="Profile Views" />
 </div>
 
 ## ✨ GitHub Contribution
